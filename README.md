@@ -1,6 +1,6 @@
 # Sugar Sling Game 🍬🚀
 
-SugarSlingGame adalah permainan berbasis Java yang menggabungkan elemen aksi dan strategi. Project ini dibangun menggunakan konsep **Object-Oriented Programming (OOP)** dengan arsitektur **MVVM/MVC** untuk memisahkan logika bisnis, data, dan tampilan.
+SugarSlingGame adalah permainan berbasis Java yang menggabungkan elemen aksi dan strategi. Project ini dibangun menggunakan konsep **Object-Oriented Programming (OOP)** dengan arsitektur **MVVM** untuk memisahkan logika bisnis, data, dan tampilan.
 
 ## 🎮 Fitur Utama
 - **Gameplay Dinamis:** Mekanik menembak atau melontarkan objek (Sling) untuk mencapai target.
