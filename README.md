@@ -24,4 +24,4 @@ Project ini diatur dengan rapi ke dalam beberapa package:
 
 ## 🎥 Video Demo & Penjelasan Kode
 Video berikut menampilkan **demo gameplay Sugar Sling Game** sekaligus **penjelasan struktur dan implementasi kode Java (OOP & MVVM)** yang digunakan dalam pengembangan game ini.
-🔗 YouTube: https://youtube.com/xxxxxxxx
+🔗 YouTube: [https://youtube.com/xxxxxxxx](https://youtu.be/Mts0_eQZhyw)
