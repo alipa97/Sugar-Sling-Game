@@ -21,3 +21,7 @@ Project ini diatur dengan rapi ke dalam beberapa package:
 - `model/`: Berisi entitas data dan logika dasar (Ball, Player, Lasso, DB).
 - `view/`: Berisi komponen antarmuka pengguna (MainMenu, GameWindow, GamePanel).
 - `viewmodel/`: Berisi logika perantara yang menghubungkan model dengan tampilan.
+
+## 🎥 Video Demo & Penjelasan Kode
+Video berikut menampilkan **demo gameplay Sugar Sling Game** sekaligus **penjelasan struktur dan implementasi kode Java (OOP & MVVM)** yang digunakan dalam pengembangan game ini.
+🔗 YouTube: https://youtube.com/xxxxxxxx
